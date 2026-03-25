@@ -1,0 +1,4 @@
+praat-parselmouth
+torchcrepe
+
+openai-whisper

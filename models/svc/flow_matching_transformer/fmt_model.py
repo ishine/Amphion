@@ -249,6 +249,7 @@ class FlowMatchingTransformer(nn.Module):
         prompt,
         x_mask=None,
         prompt_mask=None,
+        text_embedding=None,
         n_timesteps=10,
         cfg=1.0,
         rescale_cfg=0.75,
